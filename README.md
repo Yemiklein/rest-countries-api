@@ -15,17 +15,6 @@ Users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode
 
-### Links
-
-- Solution URL: [https://github.com/mlatka9/REST-Countries-API-with-color-theme-switcher](https://github.com/mlatka9/REST-Countries-API-with-color-theme-switcher)
-- Live Site URL: [https://www.netlify.com/](https://blissful-keller-f90ec7.netlify.app/)
-
-### Screenshot
-
-![Home Page](https://user-images.githubusercontent.com/72691985/143434896-96c2ecaf-d4d5-4648-a78d-cd66a0bee0b2.png)
-
-
-## My process
 
 ### Built with
 
@@ -37,7 +26,6 @@ Users should be able to:
 - [React Router](https://reactrouter.com/) - For styles
 - [Downshift](https://www.downshift-js.com/) - For select input
 
-## Author
 
-- Frontend Mentor - [@mlatka9](https://www.frontendmentor.io/profile/mlatka9)
-- GitHub - [@mlatka9](https://github.com/mlatka9)
+
+
